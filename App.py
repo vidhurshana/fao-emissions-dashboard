@@ -1,3 +1,4 @@
+# Dashboard: FAO Agrifood GHG Emissions | 5DATA004C Coursework
 import streamlit as st
 import pandas as pd
 import plotly.express as px
@@ -313,3 +314,6 @@ st.caption(
     "Dashboard developed for 5DATA004C Data Science Project Lifecycle · "
     "University of Westminster · Dataset: FAO Emissions Totals (World Bank Data360)"
 )
+# Dashboard: FAO Agrifood GHG Emissions | 5DATA004C Coursework
+import streamlit as st
+import pandas as pd
